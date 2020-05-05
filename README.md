@@ -5,7 +5,10 @@ This is USB Family BASIC keyboard bridge with AVR328p and V-USB.
 # Circuit 
 
 AVR 328p pinout
+
+
 |Pin|Func|
+| ------------- | ------------- |
 |1|RESET|	
 |2|PD0 RXD (Unused)	
 |3|PD1 TXD	(Unused)
@@ -37,6 +40,8 @@ AVR 328p pinout
 
 FC controller 15pin pinout
 
+|Pin|Func|
+| ------------- | ------------- |
 |1|GND|
 |2|NC|
 |3|NC|
